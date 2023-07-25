@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: rgb(207, 168, 61);
+}
+button {
+    background-color: transparent;
+    border: 0px; 
+    margin: 5%;
+}
+    button:active {
+        transform: translateY(4px);
+}
+
+h1 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique
+    ;
+}
+
+h2 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
